@@ -3,9 +3,9 @@
 Dijkstra Shortest Path implementation in Python based on: https://gist.github.com/econchick/4666413
 This program has three parameters:
 
-- -file file: specifies the file containing the graph (should follow the format in input.txt)
-- --origin node: specifies the initial node
--  --dest node: specifies the destination node -- used for printing the shortest path
+- ```--file file```: specifies the file containing the graph (should follow the format in input.txt)
+- ```--origin node```: specifies the initial node
+-  ```--dest node```: specifies the destination node -- used for printing the shortest path
 
 ### Input file format
 
@@ -18,6 +18,8 @@ a   b   15
 ```
 In this case, we have ```a -> b``` with 15 of weight.
 
-In the end you should specify your **n** nodes as follow:
+In the end you should specify and enumerate your **n** nodes as follow:
+
 ```0 a```
+
 ```1 b```
