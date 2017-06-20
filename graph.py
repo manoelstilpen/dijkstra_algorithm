@@ -31,8 +31,6 @@ class Graph:
                     id, name = line.split()
                     self.__nodes.add(name)
 
-        # print self.__edges
-
     def dijkstra(self, origin):
         self.__visited = {origin: 0}
         path = {}
