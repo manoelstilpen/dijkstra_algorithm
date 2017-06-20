@@ -1,6 +1,7 @@
 ## Dijkstra Algorithm
 
 Dijkstra Shortest Path implementation in Python based on: https://gist.github.com/econchick/4666413
+
 This program has three parameters:
 
 - ```--file file```: specifies the file containing the graph (should follow the format in input.txt)
@@ -11,7 +12,8 @@ This program has three parameters:
 
 The input file format should follow the model below:
 
-The first line should contain how many nodes(**n**) and edges(**m**) you have
+The first line should contain how many nodes(**n**) and edges(**m**) you have.
+
 The next **m** lines specifies the edges, for example:
 ```
 a   b   15
