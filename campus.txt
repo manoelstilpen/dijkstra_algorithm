@@ -1,0 +1,50 @@
+17	30
+portao-lateral		bloco				100
+portao-lateral		medicina			180
+portao-lateral		lino				215
+portao-lateral		escola-minas		462
+portao-lateral		rodetas				560
+bloco				pitstop				100
+postinho			iceb-principal		340
+postinho			pitstop 			216
+iceb-lateral		iceb-principal		220
+iceb-lateral		estacionamento-iceb	240
+iceb-lateral		caixa				290
+iceb-lateral		pitstop				180
+iceb-lateral		rodetas				200
+iceb-lateral		bloco				230
+iceb-lateral		medicina			200
+estacionamento-iceb	caixa				126
+estacionamento-iceb	iceb-principal		100
+ru					iceb-principal		230
+ru					caixa				120
+ru					portao-principal	400
+ru					estacionamento-iceb	160
+caixa				escola-minas		250
+caixa				portao-principal	210
+caixa				rodetas				160
+portao-em			escola-minas		50
+portao-em			jureg				160
+jureg				praca				300
+jureg				portao-principal	280
+praca				lino				350
+escola-minas		rodetas				190
+
+
+0	portao-lateral
+1	bloco
+2	medicina
+3	postinho
+4	iceb-lateral
+5	ru
+6	caixa
+7	iceb-principal
+8	estacionamento-iceb
+9	pitstop
+10 	lino
+11	escola-minas
+12 	portao-em
+13	jureg
+14 	praca
+15	portao-principal
+16	rodetas
